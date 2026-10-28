@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+
+# Antigravity local state (keep rules, ignore brain)
+# .gemini/rules/ is tracked
+
